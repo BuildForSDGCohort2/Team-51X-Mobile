@@ -1,5 +1,7 @@
 # Afya Mobile version for Team-51X
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e12c0bb165f04aee885eee251eac0a95)](https://app.codacy.com/gh/BuildForSDGCohort2/Team-51X-Mobile?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDGCohort2/Team-51X-Mobile&utm_campaign=Badge_Grade_Settings)
+
 ## What is Afya?
 Afya is a Computerized Medical Record, a digital health record that stores and secures your health information: treatments, test results, allergies...
 
