@@ -33,10 +33,15 @@ A few resources to get you started if this is your first Flutter project:
 
 ## Doctor summary:
 [✓] Flutter (Channel stable, v1.17.3, on Mac OS X 10.15.4 19E287, locale en-CD)
+
 [✓] Android toolchain - develop for Android devices (Android SDK version 29.0.2)
+
 [✓] Xcode - develop for iOS and macOS (Xcode 11.3.1)
+
 [✓] Android Studio (version 4.0)
+
 [✓] VS Code (version 1.48.2)
+
 [✓] Connected device (1 available)
 
 • No issues found!
